@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Run Track</string>
+    <string name="google_maps_key">AIzaSyA_UI95ORSmik3r-eRJbM_zL9XdIPj_LaU</string>
+
+    <!--    Permission -->
+    <string name="permission_prompt">Please allow access to the permissions to use this app!</string>
+    <string name="permissions_rationale">Permission is denied. Please grant access manually in settings to use this app!</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="enable_permissions">Enable permissions</string>
+    <string name="goto_settings">Go to Settings!</string>
+
+</resources>
